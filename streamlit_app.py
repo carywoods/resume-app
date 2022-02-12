@@ -13,11 +13,13 @@ with open("style.css") as f:
 # Header 
 st.write('''
 # Cary Woods, DHA, M.Sc.
-##### *[(art + science) * technology] / humanity* 
+##### 
 ''')
+
 
 image = Image.open('14-a.png')
 st.image(image, width=150)
+st.subheader('*[(art + science) * technology] / humanity* ')
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
