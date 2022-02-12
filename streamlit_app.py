@@ -97,14 +97,13 @@ txt('**Doctor of Health Administration** (Medical Technology), *Virginia Univers
 st.markdown('''
 - Research `Demographic Effects On Adaptive Learning`.
 - Research `Adaptive behavior's effect on diverse populations in modern manufacturing`.
-- Research `F-Box protein behavior and general proteomic responses in GRR1 and Cdc34 in Saccharomyces Cervistia `.
 - Research `Digital Privilege in Education`.
 - Research `Using Natural Language Processing to model and enrich the educational ontology 
 associated with identifying systemic bias in Artificial Intelligence systems`.
 ''')
 
-txt('**Bachelors of Arts** (Computer Science), *Indiana*, University',
-'2001')
+txt('**Bachelors of Arts** (Computer Science), *Indiana University*, Bloomnigton',
+'1992')
 st.markdown('''
 ''')
 
@@ -119,13 +118,11 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Head, Center of Data Mining and Biomedical Informatics**, Faculty of Medical Technology, Mahidol University, Thailand',
-'2011-2021')
+txt('**Co-Founder, Xylogenics**, Synthetic Biology and Analytics, Tech Transfer IU School of Medicine, Indianapolis',
+'2008-Current')
 st.markdown('''
-- Managing a Center of `10` professors, researchers and students to ensure KPIs are strategically achieved namely to publish at least `20+` research publications annually. 
-- Actively took part in the talent hiring process as well as help employees to plan and develop their career path.
-- Set budget and handle procurement in order to facilitate education and research activities. Secured `> 10 million THB` budget.
-- Set and reflect on OKR on an annual basis to ensure productivity strategically matches the organization's direction.
+- Research `F-Box protein behavior and general proteomic responses in GRR1 and Cdc34 in Saccharomyces Cervistia `.
+- Patents `Yeast Strains that metabolize pentose sugars, 9,469,837, 10,023,837, 10,563,166 `.
 ''')
 
 txt('**Associate Professor**, Faculty of Medical Technology, Mahidol University, Thailand',
