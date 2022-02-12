@@ -118,7 +118,7 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Co-Founder, Xylogenics**, Synthetic Biology and Analytics, Tech Transfer IU School of Medicine, Indianapolis',
+txt('**Co-Founder, Xylogenics**, Synthetic Biology and Analytics, IU School of Medicine, Indianapolis',
 '2008-Current')
 st.markdown('''
 - Research `F-Box protein behavior and general proteomic responses in GRR1 and Cdc34 in Saccharomyces Cervistia `.
