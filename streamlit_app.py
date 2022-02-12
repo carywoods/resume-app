@@ -19,7 +19,7 @@ st.write('''
 
 image = Image.open('14-a.png')
 st.image(image, width=150)
-st.subheader('*[(art + science) * technology] / humanity* ')
+st.subheader('[(art + science) * technology] / humanity')
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
