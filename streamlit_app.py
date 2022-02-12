@@ -7,18 +7,19 @@ with open("style.css") as f:
 #####################
 # Header 
 st.write('''
-# Chanin Nantasenamat, Ph.D.
+# Cary Woods, DHA, M.Sc.
 ##### *Resume* 
 ''')
 
-image = Image.open('dp.png')
+image = Image.open('14a.png')
 st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Experienced Educator, Researcher and Administrator with almost twenty years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
-- Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `10` conferences as well as publishing 149 research articles.
-- Strong track record in scholarly research with H-index of `32` and total citation of 3200+.
+- Focused in the areas of entrepreneurship and management
+- Experienced Educator, Researcher and Administrator 
+- Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `6` conferences as well as publishing 9 research articles.
+- Strong track record in scholarly research with total citation of 120+.
 ''')
 
 #####################
@@ -28,7 +29,7 @@ st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootst
 
 st.markdown("""
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #16A2CB;">
-  <a class="navbar-brand" href="https://youtube.com/dataprofessor" target="_blank">Chanin Nantasenamat</a>
+  <a class="navbar-brand" href="https://twitter.com/carywoods" target="_blank">Cary Woods</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
