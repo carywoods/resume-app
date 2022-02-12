@@ -92,21 +92,26 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Doctor of Philosophy** (Medical Technology), *Mahidol University*, Thailand',
-'2002-2006')
+txt('**Doctor of Health Administration** (Medical Technology), *Virginia University*, Lynchburg',
+'2022')
 st.markdown('''
-- GPA: `3.89`
-- Research thesis entitled `Computer-aided molecular design for biological and chemical applications : Quantum chemical and machine learning approach`.
-- Received Royal Golden Jubilee Ph.D. Scholarship of `2.152 million THB` covering tuition and stipend.
-- Thesis awarded `1st` Prize by the National Research Council of Thailand.
+- Research `Demographic Effects On Adaptive Learning`.
+- Research `Digital Privilege in Education`.
+- Research `Using Natural Language Processing to model and enrich the educational ontology 
+associated with identifying systemic bias in Artificial Intelligence systems`.
 ''')
 
-txt('**Bachelors of Science** (Biological Science), *Mahidol University International College*, Thailand',
-'1998-2002')
+txt('**Bachelors of Arts** (Computer Science), *Indiana *, University',
+'1999')
 st.markdown('''
-- GPA: `3.65`
-- Graduated with First Class Honors.
 ''')
+
+
+txt('**Certification** Google Cloud Digital Leadership, '2021')
+st.markdown('''
+''')
+
+ 
 
 #####################
 st.markdown('''
