@@ -41,7 +41,7 @@ st.markdown("""
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link disabled" href="/">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link " href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#education">Education</a>
@@ -100,11 +100,12 @@ st.markdown('''
 txt('**Doctor of Health Administration** (Medical Technology), *Virginia University*, Lynchburg',
 '2022')
 st.markdown('''
+
 - Research `Demographic Effects On Adaptive Learning`.
 - Research `Adaptive behavior's effect on diverse populations in modern manufacturing`.
 - Research `Digital Privilege in Education`.
-- Research `Using Natural Language Processing to model and enrich the educational ontology 
-associated with identifying systemic bias in Artificial Intelligence systems`.
+- Research `Using Natural Language Processing to model and enrich the educational ontology associated with identifying systemic bias in Artificial Intelligence systems`.
+
 ''')
 
 txt('**Bachelors of Arts** (Computer Science), *Indiana University*, Bloomington',
