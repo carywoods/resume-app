@@ -13,7 +13,7 @@ with open("style.css") as f:
 # Header 
 st.write('''
 # Cary Woods, DHA, M.Sc.
-##### *Resume* 
+##### *[(art + science) * technology] / humanity* 
 ''')
 
 image = Image.open('14-a.png')
