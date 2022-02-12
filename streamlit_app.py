@@ -102,7 +102,7 @@ st.markdown('''
 associated with identifying systemic bias in Artificial Intelligence systems`.
 ''')
 
-txt('**Bachelors of Arts** (Computer Science), *Indiana University*, Bloomnigton',
+txt('**Bachelors of Arts** (Computer Science), *Indiana University*, Bloomington',
 '1992')
 st.markdown('''
 ''')
@@ -125,49 +125,19 @@ st.markdown('''
 - Patents `Yeast Strains that metabolize pentose sugars, 9,469,837, 10,023,837, 10,563,166 `.
 ''')
 
-txt('**Associate Professor**, Faculty of Medical Technology, Mahidol University, Thailand',
-'2012-2021')
-txt('**Assistant Professor**, Faculty of Medical Technology, Mahidol University, Thailand',
-'2009-2012')
-txt('**Lecturer**, Faculty of Medical Technology, Mahidol University, Thailand',
-'2006-2009')
+txt('**Co-Founding Member, Health Information Technology Advisory Board**, HIT certification and curriculum development, Ivy Tech Community College, Indianapolis',
+'2005-2019')
 st.markdown('''
-- Provided mentorship and supervision to junior faculty, researchers, Ph.D./M.Sc./B.Sc. students. Mentored `3` Post-doctoral fellows, supervised `13` Ph.D. students, supervised `8` M.Sc. students, supervised `13` B.Sc. students and hosted `6` visiting students from U.S., Sweden and India.
-- Wrote and applied for research grants. Served as Principal Investigator for research grants that have been awarded `12.5 million THB` and `1.117 million SEK` in research funding from Thai and Swedish grant agencies.
-- Conducted research by applying machine learning to computational drug discovery and ensuring that research output exceeds `20+` articles per year.
-- Taught `10+` undergraduate/graduate classes on Bioinformatics, Data Mining, Scientific Research and Presentation, Research Methodology, Graduate Seminar, Programming for Health Data Science, etc.
-- Peer reviewed `100+` research articles for leading scientific journals.
+- Execution of AHIMA `certification procedure`.
+- Marketing Devlopment 
 ''')
 
-txt('**Co-Chair**, International Conference on Pharmaceutical Bioinformatics at Pattaya, Thailand',
-'2016')
+txt('**President, Partners In Housing**, Sustainable Housing, 501(c)3, Indianapolis',
+'2014-2018')
 st.markdown('''
-- Oversee all aspects of the conference preparations from conception to launch. This include inviting keynote and plenary speakers, create advertisement flyers, create abstract book, etc.
-- Conference attracted `200+` participants from `40+` countries from university and industry sector.
-- Chaired keynote session, technical workshop and some of the parallel sessions.
+- Philosophy `Housing First `.
 ''')
 
-txt('**Content Creator**, [Data Professor YouTube Channel](https://youtube.com/dataprofessor/)',
-'2019-Present')
-st.markdown('''
-- `100,000+` subscribers on YouTube
-- Created `261` educational videos on data science, machine learning and bioinformatics as well as hosted several podcast episodes with data scientists.
-- Created `3` sponsored videos for Notion, Gradio and Classpert.
-''')
-
-txt('**Content Creator**, [Coding Professor YouTube Channel](https://youtube.com/codingprofessor/)',
-'2019-Present')
-st.markdown('''
-- `3,200+` subscribers on YouTube
-- Created `38` educational videos on Python and R programming.
-''')
-
-txt('**Technical Writer**, [Data Professor Blog](https://data-professor.medium.com/) on Medium.com',
-'2019-Present')
-st.markdown('''
-- `4,100+` subscribers on Medium
-- Written `68` technical blogs on data science, machine learning and bioinformatics.
-''')
 
 #####################
 st.markdown('''
@@ -208,13 +178,10 @@ txt3('Model deployment', '`streamlit`, `gradio`, `R Shiny`, `Heroku`, `AWS`, `Di
 st.markdown('''
 ## Social Media
 ''')
-txt2('LinkedIn', 'https://www.linkedin.com/in/chanin-nantasenamat')
-txt2('Twitter', 'https://twitter.com/thedataprof')
-txt2('GitHub', 'https://github.com/chaninn/')
-txt2('', 'https://github.com/chaninlab/')
-txt2('', 'https://github.com/dataprofessor')
-txt2('ORCID', 'http://orcid.org/0000-0003-1040-663X')
-txt2('Scopus', 'http://www.scopus.com/authid/detail.url?authorId=12039071300')
-txt2('ResearcherID', 'http://www.researcherid.com/rid/F-1021-2010')
-txt2('ResearchGate', 'https://www.researchgate.net/profile/Chanin_Nantasenamat')
-txt2('Publons', 'https://publons.com/a/303133/')
+txt2('LinkedIn', 'https://www.linkedin.com/in/carywoods/')
+txt2('Twitter', 'https://twitter.com/carywoods')
+txt2('GitHub', 'https://github.com/carywoods/')
+txt2('ORCID', 'http://orcid.org/0000-0002-7911-0485')
+txt2('Scopus', 'http://www.scopus.com/authid/detail.url?authorId=16647680300')
+txt2('ResearchGate', 'https://www.researchgate.net/profile/Cary-Woods')
+
