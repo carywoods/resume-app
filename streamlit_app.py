@@ -103,12 +103,12 @@ st.markdown('''
 associated with identifying systemic bias in Artificial Intelligence systems`.
 ''')
 
-txt('**Bachelors of Arts** (Computer Science), *Indiana *, University',
+txt('**Bachelors of Arts** (Computer Science), *Indiana*, University',
 '2001')
 st.markdown('''
 ''')
 
-txt('**Certification** (Google Cloud Digital Leadership), *Certificate ID *, NZWHW4WRPEHZ',
+txt('**Certification** (Google Cloud Digital Leadership), *Certificate ID*, NZWHW4WRPEHZ',
 '2021')
 st.markdown('''
 ''')
