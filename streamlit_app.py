@@ -96,13 +96,19 @@ txt('**Doctor of Health Administration** (Medical Technology), *Virginia Univers
 '2022')
 st.markdown('''
 - Research `Demographic Effects On Adaptive Learning`.
+- Research `Adaptive behavior's effect on diverse populations in modern manufacturing`.
+- Research `F-Box protein behavior and general proteomic responses in GRR1 and Cdc34 in Saccharomyces Cervistia `.
 - Research `Digital Privilege in Education`.
 - Research `Using Natural Language Processing to model and enrich the educational ontology 
 associated with identifying systemic bias in Artificial Intelligence systems`.
 ''')
 
+
+
+
+
 txt('**Bachelors of Arts** (Computer Science), *Indiana *, University',
-'1999')
+'2001')
 st.markdown('''
 ''')
 
