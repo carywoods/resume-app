@@ -13,7 +13,7 @@ with open("style.css") as f:
 # Header 
 st.write('''
 # Cary Woods, DHA, M.Sc.
-# [(art + science) * technology] / humanity
+### [(art + science) * technology] / humanity
 ##### 
 ''')
 
@@ -157,6 +157,7 @@ txt('**Co-Founder, Xylogenics**, Synthetic Biology and Analytics, IU School of M
 st.markdown('''
 - Research `F-Box protein behavior and general proteomic responses in GRR1 and Cdc34 in Saccharomyces Cervistia `.
 - Patents `Yeast Strains that metabolize pentose sugars, 9,469,837, 10,023,837, 10,563,166 `.
+- TechPoint Mira Award winner `Clean Technology Energy Innovation`
 ''')
 
 txt('**Co-Founding Member, Health Information Technology Advisory Board**, HIT certification and curriculum development, Ivy Tech Community College, Indianapolis',
