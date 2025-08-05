@@ -15,7 +15,7 @@ st.write('''
 ##### *Resume* 
 ''')
 
-image = Image.open('14a.png')
+image = Image.open('https://carywoods-resume-app-streamlit-app-personal-vd5epq.streamlit.app/~/+/media/8f149ac82ce84a808bba5482cab494e558a712d5f4d49a543f6db06a.png')
 st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
